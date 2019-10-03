@@ -1,10 +1,10 @@
 {
-    "name": "vagrant/sentiment",
+    "name": "fundingportal/sentiment",
     "type": "composer-plugin",
     "authors": [
         {
             "name": "Parth Rai Sharma",
-            "email": "parth@vamanai.com"
+            "email": "psharma@fundingportal.com"
         }
     ],
     "require": {}
