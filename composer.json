@@ -1,0 +1,11 @@
+{
+    "name": "vagrant/sentiment",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Parth Rai Sharma",
+            "email": "parth@vamanai.com"
+        }
+    ],
+    "require": {}
+}
