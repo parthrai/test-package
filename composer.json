@@ -7,11 +7,17 @@
             "email": "psharma@fundingportal.com"
         }
     ],
-    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "\\sentiment\\SentimentServiceProvider"
+            ]
+        }
+    },
 
     "autoload": {
         "psr-4": {
-            "fundingportal\\sentiment\\": "src/"
+            "\\sentiment\\": "src/"
         }
     }
 }
