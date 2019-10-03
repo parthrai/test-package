@@ -1,11 +1,17 @@
 {
     "name": "fundingportal/sentiment",
-    "type": "composer-plugin",
+    "description": "thi is some description composer-plugin",
     "authors": [
         {
             "name": "Parth Rai Sharma",
             "email": "psharma@fundingportal.com"
         }
     ],
-    "require": {}
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "fundingportal\\sentiment\\": "src/"
+        }
+    }
 }
