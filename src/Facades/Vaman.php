@@ -1,6 +1,6 @@
 <?php
 
-namespace fundingportal\Sentiment\Facades;
+namespace Sentiment\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

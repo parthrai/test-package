@@ -1,6 +1,6 @@
 <?php
 
-$namespace = 'fundingportal\Sentiment\Http\Controllers';
+$namespace = 'Sentiment\Http\Controllers';
 
 Route::group([
     'namespace' => $namespace,
