@@ -1,6 +1,6 @@
 <?php
 
-namespace Sentiment;
+namespace fundingportal\Sentiment;
 
 use Illuminate\Support\ServiceProvider;
 

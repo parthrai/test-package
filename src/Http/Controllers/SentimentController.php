@@ -1,6 +1,6 @@
 <?php
 
-namespace Sentiment\Http\Controllers;
+namespace fundingportal\Sentiment\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Sentiment\Vaman;

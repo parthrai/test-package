@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Sentiment;
+namespace fundingportal\Sentiment;
 
 class Vaman{
 
